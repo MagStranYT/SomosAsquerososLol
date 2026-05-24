@@ -26,13 +26,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "SIX SEVEEEN!!1!!!1!!",
-        "67676767676767676767676767!!!!!!",
-        "DAME UN SIX, DAME UN SEVEN, SIX SEVEEEEEN!!!!!!!!"
+        "SIX SEVEEEEEEEN",
+        "6767676767676767",
+        "SEIS SIETE SEIS SIETE 6767"
       ]
     },
     "chat-log": true,
